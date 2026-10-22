@@ -11,8 +11,8 @@
     "bootswatch": "^4.6.0",
     "core-js": "^3.11.2",
     "csprng": "^0.1.2",
-    "jszip": "^3.6.0",
-    "vue": "^2.6.12",
+    "jszip": "^3.10.2",
+    "vue": "^3.5.44",
     "vue-clipboard2": "^0.3.1"
   },
   "devDependencies": {
@@ -24,7 +24,7 @@
     "popper.js": "^1.16.1",
     "portal-vue": "^2.1.7",
     "vue-cli-plugin-bootstrap-vue": "^0.7.0",
-    "vue-template-compiler": "^2.6.12"
+    "vue-template-compiler": "^2.7.16"
   },
   "repository": {
     "type": "git",
